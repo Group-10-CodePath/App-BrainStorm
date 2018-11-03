@@ -1,40 +1,94 @@
-## New App Ideas
-1. Rental Marketplace - Similar to Facebook marketplace; however, instead of selling/buying things, you can rent them. For example, if you have an item (e.g. boat, rv, kayak, set of skis, set of golf clubs, table saw, 4-wheeler, etc.) that you don't want to sell, but that you don't use often, you can rent it out for a day/week/month/etc. People who need an item for a day, but don't want to buy it can rent.
-2. Homework Helper - Practical exercises from most popular coding text books completed... do an exercise earn tokens, need an answer use a token to see it - feedback from online tutors on finishing assignments
-3.  Elementary Education(at home practice app for child and parent): app that allows teachers to design or upload accessible practice work, tests, or reading practices for parents to work alongside their children at home. Would hope to promote engaged parents inside and outside the school proper setting. Allows for parents to share at home practice tips. Allows for teachers to disseminate announcements/collect feedback from parents through private/public chats. Cultivates successful classrooms, not only successful individuals
-4. Food Bank App - nearest food bank based on location's needs, upload via upc and closest drop off points and scanned by upc when left
-5. Social app for organizing board game nights: Have you ever bought a board game or wanted to play a specif board game but had no one to play with? Maybe your family or regular friends are too busy when you have free time? Organize a local meeting with people who are also looking to play have a good'ol board game night (or afternoon) Create an event, pick the game or games you will be playing and set number of players you are looking for. Meet new people, play board games, and have fun.
-6. Bullet Journal app- (Optimized for tablets): This app at its core is an organization and lifestyle app, just like the bullet journal system. What would make this app unique from other note taking apps and trackers would be a social aspect where users can create modules (a.k.a collections) for others to use. Usually the hardest or most time consuming aspect of keeping a bullet journal is the creation and setting up part, week after week, month after month or even daily. This app will help you get your journal set-up in no time, and also see and learn from other users how they keep their lives organized.   
-7. Health/Fitness Tracker: Could use camera phones to scan barcodes of items in your pantry. Listing where you are lacking nutritionally, offer dietry alternatives, recipes. Listing popular places to purchases items and list comparative pricings/deals Helping the user to fit what they already have into dietary plans. Expand on dietary plans/needs. Could allow for users to share tips/tricks/recipes. Inspire healthy/engaging eating habits through community.
-8. Listing app for business real estate - basically just a Zillow for business real estate (office space/buildings)
+## BILLOW (Working Title?)
 
-## Top 3 New App Ideas
-1. Elementary Education App
-2. Bullet Journal App
-3. Business Real Estate App
+### App Description
+Find and list commercial space for businesses, large or small. This app is like a Zillow for commercial properties, whether you need a small office at a co-working space or more traditional space for your organization or workshop, *Billow* will help you find your next workspace. 
 
-## New App Ideas - Evaluate and Categorize
-
-## Elementary Education App
-- **Category:** Education & Business Communication
-- **Mobile:** Essential for accessibility. Parents/Teachers can get real-time push notifications about assignments/extra practice/updates/class. Full access website. Upload files, resources, pictures (personal profile)
-- **Story:** We are looking for ways to keep parents/teachers involved and engaged in the most formative years of their students' lives. How a child is impacted and engaged at a young age in the classroom can have defining effects later in life. We want to help facilitate a brighter future of confident, collaborative, conscious thinkers
-- **Market:** Teachers, Parents, School admin looking for ways to promote improvement in classroom participation and educational culture. Parents/Teachers wanting to stay more engaged with their students inside/outside the home setting and the classroom setting. 
-- **Habit:** Teachers could upload weekly lesson plans/daily updates. Parents could use daily for updates. Teachers/parents could use in real-time to communicate with each other. Parents/Teachers could use bi-weekly/as needed to tweak at home practice curriculum for students. Parents could use in real time to gauge student progress and interact with other parents
-- **Scope:** V1. allow teachers to send updates to parents(lessons plans. homework resources. etc) V2. could allow direct interaction between parents/teachers(discuss student. talk about what works at home. etc.) V3. allow filesharing/upload/chat between parents. V4. parents/teachers can submit evaluation forms 
-
-## Bullet Journal App
-- **Category:** Lifestyle & Organization
-- **Mobile:** Portability- be able to write an entry into your journal withou having to carry an actual notebook around. Phone and Tablet apps will have stylus support for those who like to handwrite their notes. Modular components (a.k.a. collections).
-- **Story:** Designed with the Bullet Journal system in mind, this app will help you organize your life, no matter the circumstance. The beauty of the Bullet Journal System, is that it's completly custimizable for your lifestyle. Users can create custom collections to help them keep track of virtually anything. This app will let users recycle collections they have previously created, and also share their collections with other users. Make lists, integrate existing calendars, track your mood, track your finances, just like you would using a paper Bullet Journal, but now all within the palm of your hand. 
-- **Market:** Niche, Exisiting Market- targeted mostly towards people who already keep a bullet journal, or those who would like to start keeping one but would like to spend less time setting up their collections. 
-- **Habit:** This app would take advantage of existing habits; people who write in their bullet journal daily. This app would decrease the amount of time it takes to set-up a new month, a new week, and even a new day in your bullet journal.
-- **Scope:** This app would be a notes app at it's core, but with the ability to create custome componets that can be placed on each page. Since a bullet journal's pages are set in a grid, the implementation of the componets would need to follow a grid system. A user database would need to be set up and a database to hold a library of shared components. Also, a 'component creation' system would need to be implemented. How will we determind the logic used to create custome componets? On the business side: Do we align ourselves with the orginal 'Bullet Journal?' is this an idea we pitch to his company or do we create our own? 
-
-## Business Real Estate App
-- **Category** Business to Business Communication
-- **Mobile** Phone and tablet usage for commercial real estate shoppers to find properties in areas based on location search. 
-- **Story** Commercial real estate sales and transaction search that focuses on comps from property sales, refinancing, transfers, and tax billings. All properties shown by list or map location. Tapping on properties reveals sales asking price or last transaction type, details and price (total/per unit/per square foot). Details for all commercial property types: office, retail, industrial, multifamily apartments, hotels, senior housing and development sites.
-- **Market** Commercial real estate investors and buisnesses looking for new locations.
-- **Habit** This app would allow commerical real estate seekers to have a one stop app to find new listings as well as comparing those listings to adjacent and nearby property values.
+### App Idea Evaluation
+- **Category** Business to Business Communication/Marketplace
+- **Mobile** Phone and tablet usage for commercial real estate shoppers and sellers to list, find, and rent/buy properties in areas based on location search. 
+- **Story** Commercial real estate sales and transaction search that focuses on comps from property sales, refinancing, transfers, and tax billings as well as seller uploaded information. All properties shown by list or map location. Tapping on properties reveals sales asking price or last transaction type, details and price (total/per unit/per square foot). Details for all commercial property types: office, retail, industrial, multifamily apartments, hotels, senior housing and development sites, co-working space.
+- **Market** Commercial real estate investors/owners and businesses looking for new locations.
+- **Habit** 
+1. This app would allow commerical real estate seekers to have a one-stop app to find new listings as well as comparing those listings to adjacent and nearby property values. 
+2. This app would allow commerical real estate sellers to have a one-stop app to create new listings as well as comparing those listings to adjacent and nearby property values. 
 - **Scope** This app will be location-based with the primary window being a map - alternate list view. Users would be able to search commercial properties based on zip/city/drawn area. Properties display at least street view as well as other photos uploaded by owners/agents. Pulling data from national commercial real estate databases, city/county/state open records search results (tax valuation, ownership, last sales price, etc.) - Extras could include current property valuation, neighborhood stats (crime, amount of commercial space, percentage of residential, commerical, industrial zoning in area, etc).
+
+---
+
+### User Stories (Required and Optional)
+
+Required Must-have Stories
+
+- User can view a map of properties
+- User (seller) can add property listing
+- Search option - by location and features
+- User can favorite a property
+- User can view individual properties details and related information
+- User (seller) can view a list of their properties
+
+### Optional Nice-to-have Stories
+
+- User can register
+- User can login
+- User can compare two (or more) properties
+- User can view a statistical page for a given area (e.g. crime rates, average listing prices, utilities, foot/road-traffic)
+- User can view helpful financing information (mortage rates, agents, insurance, etc.)
+
+### Screen Archetypes
+
+- Login Screen
+    -- User can/cannot login
+- Registration Screen
+    -- User can create a new account
+- Listing/Search map
+    -- User can view a feed of properties
+    -- Search option - by location and features
+    -- Statistics
+- Property View
+    -- User can view individual properties details and related information
+    -- Compare properties
+- Creation
+    -- User can post new properties
+- User Profile List
+    -- Favorites
+    -- Listed Properties
+- More
+    -- Financing options
+
+## Navigation
+
+    Tab Navigation - This is when the user switches between screens by simply clicking on a tab displayed at the top or bottom of the app.
+    Flow Navigation - This is when the user taps on something on a screen and is taken to another screen. From that screen, they can go back to the previous screen, or navigate to another screen.
+
+Tab Navigation (Tab to Screen)
+
+- Home (Map Feed)
+- Search (a property with specific location & specs)
+- Profile (User Profile)
+- Menu
+
+Flow Navigation (Screen to Screen)
+
+List all your screens from above. Under each screen, list the screens you can navigate to from that screen.
+
+- Login Screen
+    => goes to Home (Map) page
+- Registration Screen 
+    => goes to Home (Map) page
+- Listing/Search map
+    => goes to individual property view page
+        ==> Compare properties
+    => Stats overlays
+- Profile page
+    => Creation page
+    => Saved properties list
+- More
+    => goes to financing page
+
+### Wireframes
+// TODO: Add Wireframe Images
+
+---
+
+### App Pitch Presentation
+// TODO: Add link to Pitch Presentation Deck
