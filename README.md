@@ -15,14 +15,83 @@ Find and list commercial space for businesses, large or small. This app is like 
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+### User Stories (Required and Optional)
 
----
+Required Must-have Stories
 
-### Wireframes
-// TODO: Add Wireframe Images
+- User can view a map of properties
+- User (seller) can add property listing
+- Search option - by location and features
+- User can favorite a property
+- User can view individual properties details and related information
+- User (seller) can view a list of their properties
+
+### Optional Nice-to-have Stories
+
+- User can register
+- User can login
+- User can compare two (or more) properties
+- User can view a statistical page for a given area (e.g. crime rates, average listing prices, utilities, foot/road-traffic)
+- User can view helpful financing information (mortage rates, agents, insurance, etc.)
+
+### Screen Archetypes
+
+- Login Screen
+    -- User can/cannot login
+- Registration Screen
+    -- User can create a new account
+- Listing/Search map
+    -- User can view a feed of properties
+    -- Search option - by location and features
+    -- Statistics
+- Property View
+    -- User can view individual properties details and related information
+    -- Compare properties
+- Creation
+    -- User can post new properties
+- User Profile List
+    -- Favorites
+    -- Listed Properties
+- More
+    -- Financing options
+
+## Navigation
+
+    Tab Navigation - This is when the user switches between screens by simply clicking on a tab displayed at the top or bottom of the app.
+    Flow Navigation - This is when the user taps on something on a screen and is taken to another screen. From that screen, they can go back to the previous screen, or navigate to another screen.
+
+Tab Navigation (Tab to Screen)
+
+- Home (Map Feed)
+- Search (a property with specific location & specs)
+- Profile (User Profile)
+- Menu
+
+Flow Navigation (Screen to Screen)
+
+List all your screens from above. Under each screen, list the screens you can navigate to from that screen.
+
+- Login Screen
+    => goes to Home (Map) page
+- Registration Screen 
+    => goes to Home (Map) page
+- Listing/Search map
+    => goes to individual property view page
+        ==> Compare properties
+    => Stats overlays
+- Profile page
+    => Creation page
+    => Saved properties list
+- More
+    => goes to financing page
+
+### Wireframe Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://recordit.co/fISIATTAOT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit](http://www.recordit.co).
 
 ---
 
