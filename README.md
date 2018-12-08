@@ -96,5 +96,6 @@ GIF created with [Recordit](http://www.recordit.co).
 ---
 
 ### App Pitch Presentation
-<iframe src="https://giphy.com/embed/nqfUQs9BCFWyv1eAjC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nqfUQs9BCFWyv1eAjC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/nqfUQs9BCFWyv1eAjC.gig" width="480"><br>
+GIF created with [GIPHY](https://giphy.com/gifs/nqfUQs9BCFWyv1eAjC)<br>
 https://docs.google.com/presentation/d/17fQPMEjyXW73pPYRp5c619LH4BbsTg4O6Wcw6mkHmHY/edit#slide=id.p
