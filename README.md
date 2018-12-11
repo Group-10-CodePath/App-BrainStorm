@@ -101,5 +101,5 @@ GIF created with [GIPHY](https://giphy.com/gifs/nqfUQs9BCFWyv1eAjC)<br>
 https://docs.google.com/presentation/d/17fQPMEjyXW73pPYRp5c619LH4BbsTg4O6Wcw6mkHmHY/edit#slide=id.p
 
 ### App Pitch Video
-<img width="560" height="315" src="https://www.youtube.com/embed/O2PHAed8678" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><br>
+[![Billow](https://img.youtube.com/vi/O2PHAed8678/0.jpg)](https://www.youtube.com/watch?v=O2PHAed8678)
 https://youtu.be/O2PHAed8678
