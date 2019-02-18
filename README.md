@@ -1,4 +1,4 @@
-## BILLOW (Working Title?)
+## BILLOW
 
 ### App Description
 Find and list commercial space for businesses, large or small. This app is like a Zillow for commercial properties, whether you need a small office at a co-working space or more traditional space for your organization or workshop, *Billow* will help you find your next workspace. 
